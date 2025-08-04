@@ -7,13 +7,13 @@ export default [
       {
         id: 'sports',
         name: 'Sports Club',
-        image: '/images/sports.png',
+        image: '/images/icc-card.png',
         description: 'Handles all sporting events in campus.',
         socials : {
-          linkedin: '',
-          instagram: '',
-          facebook: '',
-          website: ''
+          linkedin: 'https://linkedin.com/',
+          instagram: 'https://instagram.com/',
+          facebook: 'https://facebook.com/',
+          website: 'https://sports.iitb.ac.in/'
         }
       },
       {
