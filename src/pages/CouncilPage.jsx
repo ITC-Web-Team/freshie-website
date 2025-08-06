@@ -1,5 +1,6 @@
 import { useParams } from 'react-router-dom';
 import councils from '../data/councils';
+import './CouncilPage.css'; 
 
 const CouncilPage = () => {
   const { councilId } = useParams();
@@ -9,10 +10,13 @@ const CouncilPage = () => {
 
   return (
     <div className="council-page">
-      <h2>{council.name}</h2>
+      <h1>{council.name}</h1>
       <div className="cards-container">
         {council.clubs.map(club => (
           <div key={club.id} className="club-card">
+            <div className="club-card-top">
+  <img src={`/images/${councilId}-logo.png`} alt={council.name} className="council-logo" />
+</div>
             <img src={club.image} alt={club.name} className="club-image" />
             <h3>{club.name}</h3>
             <p>{club.description}</p>
@@ -33,10 +37,13 @@ const CouncilPage = () => {
                 </a>
               )}
               {club.socials.website && (
-                <a href={club.socials.website} target="_blank" rel="noreferrer">
+                <a href={`${club.socials.website + club.id}`} target="_blank" rel="noreferrer">
                   <i className="fas fa-external-link-alt" />
                 </a>
               )}
+              <div className="club-card-bottom-rotated">
+  <img src={`/images/${councilId}-logo.png`} alt={council.name} className="council-logo rotated" />
+</div>
             </div>
           </div>
 

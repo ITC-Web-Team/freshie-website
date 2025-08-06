@@ -2,12 +2,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #0c1c1c;
-  color: #fff;
+  background-image: radial-gradient(circle at 60% 50%, #038126, #014D11);
+
 }
 
+
 .home-container {
-  padding: 2rem;
+  padding: 0;
   text-align: center;
 }
 
@@ -15,28 +16,30 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 2rem;
-  margin-top: 2rem;
+  gap: 6rem;
+  margin: 2rem;
 }
 
 .card-link {
+  margin: 1rem;
   text-decoration: none;
-  color: inherit;
+  background-color: transparent;
 }
 
 .card {
   overflow: hidden;
-  background-color: #fff;
-  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+  
+  width: 400px;
+  height: auto;
+  /* box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3); */
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   position: relative;
   cursor: pointer;
-  height: 300px;
 }
 
 .card:hover {
   transform: scale(1.05) rotate(1deg);
-  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.4);
+  /* box-shadow: 0 20px 30px rgba(0, 0, 0, 0.4); */
 }
 
 .card-img {
@@ -63,7 +66,7 @@ body {
 .clubs-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 1rem;
   justify-content: center;
 }
 
