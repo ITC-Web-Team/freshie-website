@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-  width: 100%;
+  width: 100vw;
   font-family: 'Segoe UI', sans-serif;
   background-image: radial-gradient(circle at 60% 50%, #038126, #014D11);
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ html, body {
   font-size: 1.2rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .cards-container {
     flex-direction: column;
     align-items: center;
