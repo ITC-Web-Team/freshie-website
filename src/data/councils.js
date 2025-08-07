@@ -278,9 +278,9 @@ export default [
     ]
   },
   {
-    id: 'pgac',
-    name: 'PGAC',
-    image: '/images/pgac-card.png',
+    id: 'itc',
+    name: 'ITC',
+    image: '/images/itc-card.png',
     clubs: [
       {
         id: 'drama',
