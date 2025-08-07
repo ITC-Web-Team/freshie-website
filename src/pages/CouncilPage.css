@@ -1,0 +1,184 @@
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.club-card {
+  width: 280px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  position: relative;
+  font-family: 'roboto mono', monospace;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transform: rotateZ(calc(-3deg + 6deg * var(--random-rotate)));
+
+}
+
+.club-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+}
+
+/* Top-left council logo */
+.club-card::before {
+  content: attr(data-council);
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+/* Bottom-right rotated council logo */
+.club-card::after {
+  content: attr(data-council);
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #333;
+  transform: rotate(180deg);
+}
+
+/* Club image */
+.club-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 2px solid black;
+}
+
+/* Club name */
+.club-card h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #000;
+  margin: 0.25rem 0;
+}
+
+/* Club description */
+.club-card p {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 1rem;
+  padding: 0 0.5rem;
+}
+
+/* Socials row */
+.club-socials {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+}
+
+.club-socials a {
+  background: #f94d1d;
+  border: 2px solid black;
+  padding: 10px;
+  color: #fff;
+  font-size: 1.2rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.club-socials a:hover {
+  background: #d63f18;
+  transform: scale(1.05);
+}
+
+.club-card-top {
+  background: #fff;
+  padding: 4px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: left;
+}
+.club-card-bottom-rotated {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  transform: scale(-1, 1);
+  background: #fff;
+  padding: 4px;
+  border-radius: 6px;
+  opacity: 0.9;
+}
+.council-logo {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+
+
+/*shuffling*/
+
+@keyframes popShuffle {
+  0% {
+    opacity: 0;
+    transform: translateY(80px) scale(0.9) rotateZ(var(--initial-rotate, 0deg));
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(-10px) scale(1.02) rotateZ(2deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px) scale(1) rotateZ(0deg);
+  }
+}
+
+@keyframes popShuffleMobile {
+  0% {
+    opacity: 0;
+    transform: translateY(40px) scale(0.95) rotateZ(var(--initial-rotate, 0deg));
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(-5px) scale(1.01) rotateZ(1deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px) scale(1) rotateZ(0deg);
+  }
+}
+
+.club-card {
+  opacity: 0;
+  animation: popShuffle 0.8s ease-out forwards;
+  will-change: transform, opacity;
+  backface-visibility: hidden;
+  width: clamp(220px, 80vw, 280px);
+  transform: rotateZ(var(--initial-rotate, 0deg));
+}
+
+.club-card:nth-child(1) { animation-delay: 0.1s; }
+.club-card:nth-child(2) { animation-delay: 0.2s; }
+.club-card:nth-child(3) { animation-delay: 0.3s; }
+.club-card:nth-child(4) { animation-delay: 0.4s; }
+.club-card:nth-child(5) { animation-delay: 0.5s; }
+.club-card:nth-child(6) { animation-delay: 0.6s; }
+.club-card:nth-child(7) { animation-delay: 0.7s; }
+.club-card:nth-child(8) { animation-delay: 0.8s; }
+
+@media (max-width: 768px) {
+  .club-card {
+    animation: popShuffleMobile 0.6s ease-out forwards;
+  }
+}
