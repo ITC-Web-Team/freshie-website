@@ -9,7 +9,7 @@ export default [
         name: 'Aquatics',
         image: '/images/aquatics.png',
         description: 'Oversees swimming, water polo and aquatics training.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -20,7 +20,7 @@ export default [
         name: 'Athletics',
         image: '/images/athletics.jpg',
         description: 'Manages track and field events and athletics training.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -31,7 +31,7 @@ export default [
         name: 'Badminton',
         image: '/images/badminton.png',
         description: 'Oversees badminton training, leagues, and events.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -42,7 +42,7 @@ export default [
         name: 'Basketball',
         image: '/images/basketball.png',
         description: 'Runs basketball events, coaching camps and competitions.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -53,7 +53,7 @@ export default [
         name: 'Board Games',
         image: '/images/boardgames.png',
         description: 'Organizes board game events and inter‑hostel contests.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -64,7 +64,7 @@ export default [
         name: 'Dark Knight Chess Club',
         image: '/images/chess.png',
         description: 'Promotes chess culture and organizes tournaments.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -75,7 +75,7 @@ export default [
         name: 'Cricket',
         image: '/images/cricket.png',
         description: 'Manages cricket activities and inter‑hostel leagues.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -86,7 +86,7 @@ export default [
         name: 'Football',
         image: '/images/football.png',
         description: 'Coordinates football tournaments and department leagues.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -97,7 +97,7 @@ export default [
         name: 'Ultimate Frisbee Club',
         image: '/images/Frisbee.png',
         description: 'Encourages frisbee sports and inter‑college events.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -108,7 +108,7 @@ export default [
         name: 'Hockey',
         image: '/images/hockey.png',
         description: 'Organises hockey matches and inter‑hostel tournaments.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -119,7 +119,7 @@ export default [
         name: 'Indian Games',
         image: '/images/khokho.png',
         description: 'Promotes traditional Indian sports and competitions.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -130,7 +130,7 @@ export default [
         name: "Rubik's Club",
         image: '/images/Rubiks.png',
         description: 'Focuses on cubing, puzzles and speed‑solving events.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -141,7 +141,7 @@ export default [
         name: 'Squash',
         image: '/images/squash.png',
         description: 'Oversees squash coaching and competitive events.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -152,7 +152,7 @@ export default [
         name: 'Table Tennis',
         image: '/images/tabletennis.png',
         description: 'Coordinates table tennis leagues and coaching sessions.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -163,7 +163,7 @@ export default [
         name: 'Lawn Tennis',
         image: '/images/tennis.png',
         description: 'Manages tennis coaching and inter‑hostel tournaments.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -174,7 +174,7 @@ export default [
         name: 'Volleyball',
         image: '/images/volleyball.png',
         description: 'Conducts volleyball matches and institute‑level camps.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -185,7 +185,7 @@ export default [
         name: 'Weightlifting',
         image: '/images/weightlifting.png',
         description: 'Manages weightlifting and strength training initiatives.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -196,7 +196,7 @@ export default [
         name: 'Adventure Club',
         image: '/images/adventure.png',
         description: 'Organizes treks, expeditions and adventure activities.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -207,7 +207,7 @@ export default [
         name: 'Yogastha',
         image: '/images/yoga.png',
         description: 'Promotes yoga and holistic wellness practices.',
-        socials : {
+        socials: {
           website: 'https://gymkhana.iitb.ac.in/sports/',
           linkedin: null,
           instagram: null
@@ -225,7 +225,7 @@ export default [
         name: 'Drama Club',
         image: '/images/drama.png',
         description: 'Theatre and dramatics.',
-        socials : {
+        socials: {
           linkedin: '',
           instagram: '',
           facebook: '',
@@ -237,38 +237,7 @@ export default [
         name: 'Music Club',
         image: '/images/music.png',
         description: 'For all music-related activities.',
-        socials : {
-          linkedin: '',
-          instagram: '',
-          facebook: '',
-          website: ''
-        }
-      }
-    ]
-  },
-  {
-    id: 'ugac',
-    name: 'UGAC',
-    image: '/images/ugac-card.png',
-    clubs: [
-      {
-        id: 'enpower',
-        name: 'EnPOWER',
-        image: '/images/enpower.png',
-        description: 'Entrepreneurship.',
-        socials : {
-          linkedin: '',
-          instagram: '',
-          facebook: '',
-          website: ''
-        }
-      },
-      {
-        id: 'career',
-        name: 'Career Cell',
-        image: '/images/careercell.png',
-        description: 'For all career-related activities.',
-        socials : {
+        socials: {
           linkedin: '',
           instagram: '',
           facebook: '',
@@ -287,7 +256,7 @@ export default [
         name: 'Drama Club',
         image: '/images/drama.png',
         description: 'Theatre and dramatics.',
-        socials : {
+        socials: {
           linkedin: '',
           instagram: '',
           facebook: '',
@@ -299,13 +268,130 @@ export default [
         name: 'Music Club',
         image: '/images/music.png',
         description: 'For all music-related activities.',
-        socials : {
+        socials: {
           linkedin: '',
           instagram: '',
           facebook: '',
           website: ''
         }
       }
+    ]
+  },
+  {
+    id: 'ugac',
+    name: 'UGAC',
+    image: '/images/ugac-card.png',
+    clubs: [
+      {
+        id: 1,
+        name: "Analytics Club",
+        image: "/images/analyticsclub.png",
+        description: "For students interested in DS ,ML and AI.",
+        socials: {
+          instagram: "https://www.instagram.com/analytics.iitb/?hl=en",
+          linkedin: "https://www.linkedin.com/company/analytics-club-iitb/?originalSubdomain=in",
+          facebook: "https://www.facebook.com/groups/AnalyticsClubIITB/",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/1"
+        }
+
+      },
+      {
+        id: 2,
+        name: "Career Cell",
+        image: "/images/careerCell.png",
+        description: "For all career-related activities.",
+        socials: {
+          instagram: "https://www.instagram.com/careercell_iitb/?hl=en",
+          linkedin: "https://www.linkedin.com/company/careercell/?originalSubdomain=in",
+          facebook: "https://www.facebook.com/careercell.iitb/",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/6"
+        }
+      },
+      {
+        id: 3,
+        name: "Consult Club",
+        image: "/images/consultClub.png",
+        description: "For consulting and management activities",
+        socials: {
+          instagram: "https://www.instagram.com/consult.iitb",
+          linkedin: "https://www.linkedin.com/company/consult-club-iit-bombay/?originalSubdomain=in",
+          facebook: "https://www.facebook.com/consultclubiitb",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/2"
+        }
+      },
+      {
+        id: 4,
+        name: "Finance Club",
+        image: "/images/financeClub.png",
+        description: "Student-Driven Financial Excellence Hub",
+        socials: {
+          instagram: "https://www.instagram.com/finance.iitb",
+          linkedin: "https://www.linkedin.com/company/finance-club-iit-bombay/?originalSubdomain=in",
+          facebook: "https://www.facebook.com/financeclubiitb",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/3"
+        }
+      },
+      {
+        id: 5,
+        name: "SSS",
+        image: "/images/SSS.png",
+        description: "Supporting students' academic journey",
+        instagram: "https://www.instagram.com/studentsupportservices_iitb",
+        socials: {
+          linkedin: "",
+          facebook: "https://www.facebook.com/sss.iitb",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/5"
+        }
+      },
+      {
+        id: 6,
+        name: "EnPower",
+        image: "/images/enpower.png",
+        description: "Engineering Oriented Promotion of Work Experience and Research",
+        socials: {
+          instagram: "https://www.instagram.com/enpower_iitb/?hl=en",
+          linkedin: "https://www.linkedin.com/company/enpower-ugac-iitb/?originalSubdomain=in",
+          facebook: "https://www.facebook.com/enpoweriitb/",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/4"
+        }
+      },
+      {
+        id: 7,
+        name: "DAV",
+        image: "/images/DAV.png",
+        description: "Data Analytics And Visualization Team",
+        socials: {
+          instagram: "https://www.instagram.com/dav_team.iitb/",
+          linkedin: "https://www.linkedin.com/company/dav-team-iit-bombay/?originalSubdomain=in",
+          facebook: "",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/9"
+        }
+      },
+      {
+        id: 8,
+        name: "CCG",
+        image: "/images/CCG.png",
+        description: "The Consulting Core Group",
+        socials: {
+          instagram: "https://www.instagram.com/ccg_iitb/?hl=en",
+          linkedin: "",
+          facebook: "",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/7"
+        }
+      },
+      {
+        id: 9,
+        name: "Investment Team",
+        image: "/images/investmentTeam.png",
+        description: "Research-Driven Student Investment Team",
+        socials: {
+          instagram: "https://www.instagram.com/investmentteam.iitb/?hl=en",
+          linkedin: "https://www.linkedin.com/company/investment-team-iit-bombay/?originalSubdomain=in",
+          facebook: "",
+          website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/8"
+        }
+      }
+
     ]
   }
 ];
