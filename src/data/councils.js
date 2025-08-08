@@ -394,36 +394,108 @@ export default [
     ]
   },
   {
-    id: 'itc',
-    name: 'ITC',
-    image: '/images/itc-card.png',
-    clubs: [
+    "id": "itc",
+    "name": "ITC",
+    "image": "/images/itc-card.png",
+    "clubs": [
       {
-        id: 'drama',
-        name: 'Drama Club',
-        image: '/images/drama.png',
-        description: 'Theatre and dramatics.',
-        socials: {
-          linkedin: '',
-          instagram: '',
-          facebook: '',
-          website: ''
+        "id": "aeromodelling",
+        "name": "Aeromodelling Club",
+        "image": "/images/aeromodelling.png",
+        "description": "Conducts RC plane competitions and activities related to RC planes and drones.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": ""
         }
       },
       {
-        id: 'music',
-        name: 'Music Club',
-        image: '/images/music.png',
-        description: 'For all music-related activities.',
-        socials: {
-          linkedin: '',
-          instagram: '',
-          facebook: '',
-          website: ''
+        "id": "biox",
+        "name": "BioX Club",
+        "image": "/images/biox.png",
+        "description": "A student platform for biotechnology and bio-engineering enthusiasts, organising webinars, talks, lab visits, and more.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": "https://sites.google.com/view/biox-iitb/home"
+        }
+      },
+      {
+        "id": "chemistry",
+        "name": "Chemistry Club",
+        "image": "/images/chemistry.png",
+        "description": "Focuses on chemistry concepts and applications, hosting blogs, events, and discussions.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": "https://chemclubiitb.wordpress.com/"
+        }
+      },
+      {
+        "id": "erc",
+        "name": "Electronics and Robotics Club",
+        "image": "/images/erc.png",
+        "description": "Conducts XLR8 competition and activities related to electronics and robotics.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": "https://erciitb.github.io/"
+        }
+      },
+      {
+        "id": "energy",
+        "name": "Energy Club",
+        "image": "/images/energy.png",
+        "description": "Works on projects and awareness related to sustainable energy and energy conservation.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": ""
+        }
+      },
+      {
+        "id": "mnp",
+        "name": "Maths and Physics Club",
+        "image": "/images/mnp.png",
+        "description": "Organises workshops and competitions on mathematics and physics, with brainstorming challenges.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": "https://mnp-club.github.io/"
+        }
+      },
+      {
+        "id": "wncc",
+        "name": "Web and Coding Club",
+        "image": "/images/wncc.png",
+        "description": "One of the largest coding communities at IIT Bombay, conducting workshops, competitions, and coding mentorship programs.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": "https://wncc-iitb.org/"
+        }
+      },
+      {
+        "id": "kritika",
+        "name": "Krittika - Astronomy Club",
+        "image": "/images/kritika.png",
+        "description": "IIT Bombay's astronomy club, conducting telescope observation sessions, astrophotography, and stargazing events.",
+        "socials": {
+          "linkedin": "",
+          "instagram": "",
+          "facebook": "",
+          "website": "https://krittikaiitb.github.io/"
         }
       }
     ]
-  },
+  },  
   {
     id: 'ugac',
     name: 'UGAC',
