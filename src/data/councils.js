@@ -224,7 +224,7 @@ export default [
         id: "iit-bbc",
         name: "IIT-BBC",
         image: "https://api.insti.app/static/upload/0fa2d764-21c.jpg",
-        description: "IITBBC, IIT-Bombay Broadcasting Channel, the online video channel of IIT-Bombay, gives viewers a sneak peek into the events, activities, and life at IIT-Bombay. It is a joint venture by the Institute Cultural Council and Insight, the media body of IIT-Bombay. The channel shares constant updates from cultural, sports, tech, and academic domains.",
+        description: "IIT-Bombay's online video channel showcasing campus events, activities, and student life across all domains.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/iitbbc?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -236,7 +236,7 @@ export default [
         id: "rang",
         name: "Rang",
         image: "https://api.insti.app/static/upload/e1c6fa92-30f.jpg",
-        description: "‘Rangeelas’, as they are called, are a bunch of crazy creative minds – painting walls, designing institute roads, creating graffiti, making colourful PFA videos, splashing paint, sketching, crafting 3D models, and pulling night-outs together. Rang, the Fine Arts Club of IIT Bombay, is more than just a club; it's a family where members learn, teach, and enjoy the art of making life vibrant.",
+        description: "Fine Arts Club creating vibrant art through painting, graffiti, sketching, crafts, and creative designs.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/rang_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -248,7 +248,7 @@ export default [
         id: "silver-screen",
         name: "SilverScreen",
         image: "https://api.insti.app/static/upload/f044c9db-34e.jpg",
-        description: "SilverScreen is the film club of IIT Bombay. Started in 2008 by a few film enthusiasts, the club has been actively promoting the culture of filmmaking and film appreciation among the student community. It offers a platform where students not only enjoy films but also get to experience the thrill of making them.",
+        description: "The film club of IIT Bombay, promoting filmmaking and film appreciation through screenings and hands-on projects.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/silverscreen_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -260,7 +260,7 @@ export default [
         id: "symphony",
         name: "Symphony",
         image: "https://api.insti.app/static/upload/9e3de690-7bb.png",
-        description: "Symphony is the Music Club of IIT Bombay, known for embracing diverse musical forms such as fusion, Indian pop, and various instrumentals. Over the years, bands from the club have played genres like blues, fusion, funk, prog rock, thrash, and metal. Believing that good music comes from pitch, pocket, and passion, the club celebrates music that resonates deeply with the heart, irrespective of genre. It is a collective of people who sing, play, or simply enjoy great music.",
+        description: "The Music Club of IIT Bombay, embracing diverse musical forms like fusion, pop, rock, and metal.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/symphonyiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -272,7 +272,7 @@ export default [
         id: "we-speak",
         name: "We Speak",
         image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-052002a9-4e6.png.jpg",
-        description: "We Speak is the Speaking Arts Club of IIT Bombay, catering to all debating enthusiasts in the institute. The club embraces a wide range of verbal art forms including debate, slam poetry, and Model United Nations (MUN). Members also engage in group discussions to explore socio-economic and international issues. The club helps individuals develop the ability to frame arguments and speak confidently in front of an audience.",
+        description: "The Speaking Arts Club of IIT Bombay, focusing on debate, slam poetry, MUNs, and group discussions.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/wespeakiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -284,7 +284,7 @@ export default [
         id: "styleup",
         name: "StyleUp",
         image: "https://example.com/styleup-logo.jpg",
-        description: "StyleUp is the Fashion Club of IIT Bombay, offering a platform for self-expression, creativity, and boldness. The club encourages everyone, regardless of background or experience, to explore fashion and lifestyle through ramp walks, photoshoots, costume designing, and more. It also organizes the Institute's Halloween Party and 'SHOWSTOPPER' – the biggest fashion showcase at IIT Bombay. StyleUp is open to all students as members, moderators, or followers.",
+        description: "The Fashion Club of IIT Bombay, for self-expression through ramp walks, photoshoots, and costume design.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/styleup_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -296,7 +296,7 @@ export default [
         id: "roots",
         name: "Roots",
         image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-7a677c66-c45.png.jpg",
-        description: "Roots, the Classical and Folk Arts Club of IIT Bombay, aims to revive and celebrate the deep-rooted traditions of classical and folk art forms. The club provides a vibrant platform to explore Carnatic and Hindustani classical music, classical dances like Kuchipudi, Kathakali, Bharatanatyam, and Kathak, folk dances such as Bhangra, Garba, and Ghoomar, and folk art forms like Warli and Madhubani painting. At Roots, expression is everything—and classical art forms beautifully enhance those expressions.",
+        description: "The Classical and Folk Arts Club, celebrating traditions in music, dance, and art forms.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/roots_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -308,7 +308,7 @@ export default [
         id: "literati",
         name: "Literati",
         image: "https://api.insti.app/static/upload/8e1e0243-8ec.jpg",
-        description: "Literati is one of the most active, entertaining, and intellectually stimulating clubs at IIT Bombay. The club hosts a variety of formal events like quizzes and creative writing contests, as well as informal ones like word games, rebuses, Scrabble, scavenger hunts, treasure hunts, and Pot-pourri (which includes dumb charades and more). Whether it's for prize money or chocolates, Literati has something fun and enriching for everyone.",
+        description: "The literary club hosting quizzes, creative writing, word games, and scavenger hunts for everyone.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/literati_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -320,7 +320,7 @@ export default [
         id: "pixels",
         name: "Pixels",
         image: "https://api.insti.app/static/upload/f7452670-191.jpg",
-        description: "Pixels is the Photography Club of IIT Bombay, a diverse group ranging from amateurs with mobile cameras to professionals with DSLRs who contribute to world-renowned magazines. Members are often spotted capturing sunsets by the lakeside, creating light graffiti in the dark, or experimenting with lights in the photography studio.",
+        description: "The Photography Club of IIT Bombay, for amateurs and professionals to capture moments and experiment with photography.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/pixels_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -332,7 +332,7 @@ export default [
         id: "insync",
         name: "InSync",
         image: "https://api.insti.app/static/upload/4814c907-d22.jpg",
-        description: "InSync is the Dance Club of IIT Bombay, offering a welcoming space for everyone to explore their passion for dance, no matter their skill level or shyness. The club embraces a wide range of dance styles including Bollywood, Hip-Hop, Kathak, Punjabi, Contemporary, Jazz, and Salsa, helping members express their emotions through movement.",
+        description: "The Dance Club of IIT Bombay, offering a space to explore dance styles like Bollywood, Hip-Hop, and more.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/insync_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -344,7 +344,7 @@ export default [
         id: "fourthwall",
         name: "Fourthwall",
         image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-7d717f47-03b.jpg.jpg",
-        description: "Fourthwall is the Dramatics Club of IIT Bombay. Whether you’re an actor, director, scriptwriter, technician, or simply a fan of theatre, Fourthwall provides the perfect space to explore and polish your theatrical skills. With a spacious wooden stage and professional lighting, the club hosts a range of performances from street plays to stage dramas.",
+        description: "The Dramatics Club of IIT Bombay, for acting, directing, scriptwriting, and all things theatre.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/fourthwall_iitbombay?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -356,7 +356,7 @@ export default [
         id: "design-club",
         name: "The Design Club",
         image: "https://api.insti.app/static/upload/06f8ecf2-e82.jpg",
-        description: "The Design Club of IIT Bombay is where creativity meets passion. Born last year with the aim to foster a design culture, the club encourages artistic souls to bring ideas to life—whether by scribbling on paper or creating digital art. With expanding infrastructure and enthusiastic members, it’s the island of misfit toys where design takes shape.",
+        description: "The Design Club of IIT Bombay, fostering a design culture by bringing creative ideas to life.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/designiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -368,7 +368,7 @@ export default [
         id: "comedy-cons",
         name: "Comedy Cons",
         image: "https://gymkhana.iitb.ac.in/instiapp/static/upload…ee0-814c-90e1a6ee8b0c-IMG-20221225-WA0006.jpg.jpg",
-        description: "Comedy Cons is the Comedy Club of IIT Bombay, rapidly growing and exploring various comedy formats and genres. The club offers workshops, jamming sessions, and open mics guided by professionals and senior students, helping beginners and enthusiasts hone their comedic skills. The journey culminates in the Annual Stand-Up Showcase, providing unmatched exposure and memories. No prerequisites needed—just bring your funny streak or come to laugh and relax!",
+        description: "The Comedy Club of IIT Bombay, offering workshops, open mics, and a platform for aspiring comedians.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/comedycons_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -380,7 +380,7 @@ export default [
         id: "vaani",
         name: "Vaani",
         image: "https://api.insti.app/static/upload/56/4f/564f83c8-252f-43b6-b2f1-e4df5be13170-d2a61daa-b92.png.jpg",
-        description: "Vaani is the Indian Languages Club of IIT Bombay that celebrates all 22 official languages of India. The club primarily focuses on poetry but also actively engages in creative writing, prose, debate, and stage performances. Members have excelled in many events inside and outside the institute. Vaani embodies India's cultural diversity, and hosts flagship events like Izhaar.",
+        description: "The Indian Languages Club celebrating India's linguistic diversity through poetry, writing, and debate.",
         socials: {
           linkedin: "",
           instagram: "https://www.instagram.com/vaani_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
