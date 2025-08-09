@@ -401,7 +401,7 @@ export default [
       {
         "id": "aeromodelling",
         "name": "Aeromodelling Club",
-        "image": "/src/assets/aerologo.png",
+        "image": "/images/itc/aerologo.png",
         "description": "Conducts RC plane competitions and activities related to RC planes and drones.",
         "socials": {
           "linkedin": "",
@@ -413,7 +413,7 @@ export default [
       {
         "id": "biox",
         "name": "BioX Club",
-        "image": "/src/assets/biox.jpg",
+        "image": "/images/itc/biox.jpg",
         "description": "A student platform for biotechnology and bio-engineering enthusiasts, organising webinars, talks, lab visits, and more.",
         "socials": {
           "linkedin": "",
@@ -425,7 +425,7 @@ export default [
       {
         "id": "chemistry",
         "name": "Chemistry Club",
-        "image": "/src/assets/chem.png",
+        "image": "/images/itc/chem.png",
         "description": "Focuses on chemistry concepts and applications, hosting blogs, events, and discussions.",
         "socials": {
           "linkedin": "",
@@ -437,7 +437,7 @@ export default [
       {
         "id": "erc",
         "name": "Electronics and Robotics Club",
-        "image": "/src/assets/ercclub.jpg",
+        "image": "/images/itc/ercclub.jpg",
         "description": "Conducts XLR8 competition and activities related to electronics and robotics.",
         "socials": {
           "linkedin": "",
@@ -449,7 +449,7 @@ export default [
       {
         "id": "energy",
         "name": "Energy Club",
-        "image": "/src/assets/enrg.png",
+        "image": "/images/itc/enrg.png",
         "description": "Works on projects and awareness related to sustainable energy and energy conservation.",
         "socials": {
           "linkedin": "",
@@ -461,7 +461,7 @@ export default [
       {
         "id": "mnp",
         "name": "Maths and Physics Club",
-        "image": "/src/assets/mnpclub.jpg",
+        "image": "/images/itc/mnpclub.jpg",
         "description": "Organises workshops and competitions on mathematics and physics, with brainstorming challenges.",
         "socials": {
           "linkedin": "",
@@ -473,7 +473,7 @@ export default [
       {
         "id": "wncc",
         "name": "Web and Coding Club",
-        "image": "/src/assets/wncc.png",
+        "image": "/images/itc/wncc.png",
         "description": "One of the largest coding communities at IIT Bombay, conducting workshops, competitions, and coding mentorship programs.",
         "socials": {
           "linkedin": "",
@@ -485,7 +485,7 @@ export default [
       {
         "id": "kritika",
         "name": "Krittika - Astronomy Club",
-        "image": "/src/assets/krittika.png",
+        "image": "/images/itc/krittika.png",
         "description": "IIT Bombay's astronomy club, conducting telescope observation sessions, astrophotography, and stargazing events.",
         "socials": {
           "linkedin": "",
@@ -497,7 +497,7 @@ export default [
         {
           "id": "webteam",
           "name": "Web Team",
-          "image": "/src/assets/ITC-black.png",
+          "image": "/images/itc/ITC-black.png",
           "description": "The Web Team of IIT Bombay is responsible for maintaining and developing the official website of the institute, ensuring it is user-friendly and up-to-date with the latest information.",
           "socials": {
             "linkedin": "",
@@ -509,7 +509,7 @@ export default [
         {
           "id": "design",
           "name": "Design Team",
-          "image": "/src/assets/ITC-black.png",
+          "image": "/images/itc/ITC-black.png",
           "description": "The Design Team of IIT Bombay focuses on creating visually appealing and user-friendly designs for various digital platforms, including the institute's website and promotional materials.",
           "socials": {
             "linkedin": "",
@@ -521,7 +521,7 @@ export default [
         {
           "id": "media",
           "name": "Media Team",
-          "image": "/src/assets/ITC-black.png",
+          "image": "/images/itc/ITC-black.png",
           "description": "The Media Team of IIT Bombay is responsible for managing the institute's media presence, including photography, videography, and social media content creation to showcase events and activities.",
           "socials": {
             "linkedin": "",
