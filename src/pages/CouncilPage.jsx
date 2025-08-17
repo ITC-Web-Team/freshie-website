@@ -50,7 +50,7 @@ const CouncilPage = () => {
                   </a>
                 )}
                 {club.socials.website && (
-                  <a href={`${club.socials.website + club.id}`} target="_blank" rel="noreferrer">
+                  <a href={`${club.socials.website}`} target="_blank" rel="noreferrer">
                     <i className="fas fa-external-link-alt" />
                   </a>
                 )}
