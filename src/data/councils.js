@@ -229,7 +229,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/iitbbc?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/iit-bbc"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -241,11 +241,11 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/rang_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/rang"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
-        id: "silver-screen",
+        id: "silverscreen",
         name: "SilverScreen",
         image: "https://api.insti.app/static/upload/f044c9db-34e.jpg",
         description: "The film club of IIT Bombay, promoting filmmaking and film appreciation through screenings and hands-on projects.",
@@ -253,7 +253,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/silverscreen_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/silverscreen"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -265,7 +265,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/symphonyiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/symphony"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
       }
     },
     {
@@ -277,11 +277,11 @@ export default [
         linkedin: "",
         instagram: "https://www.instagram.com/wespeakiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         facebook: "",
-        website: "https://gymkhana.iitb.ac.in/instiapp//org/we-speak"
+        website: "https://gymkhana.iitb.ac.in/instiapp//org/"
       }
     },
       {
-        id: "styleup",
+        id: "lifestyle-club",
         name: "StyleUp",
         image: "https://example.com/styleup-logo.jpg",
         description: "The Fashion Club of IIT Bombay, for self-expression through ramp walks, photoshoots, and costume design.",
@@ -289,7 +289,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/styleup_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/lifestyle-club"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -301,7 +301,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/roots_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "https://www.facebook.com/groups/RootsIITB/",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/roots"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/literati_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/literati"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -325,7 +325,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/pixels_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/pixels"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -337,7 +337,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/insync_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/insync"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -349,11 +349,11 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/fourthwall_iitbombay?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/fourthwall"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
-        id: "design-club",
+        id: "the-design-club",
         name: "The Design Club",
         image: "https://api.insti.app/static/upload/06f8ecf2-e82.jpg",
         description: "The Design Club of IIT Bombay, fostering a design culture by bringing creative ideas to life.",
@@ -361,11 +361,11 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/designiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/the-design-club"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
-        id: "comedy-cons",
+        id: "comedycons",
         name: "Comedy Cons",
         image: "https://gymkhana.iitb.ac.in/instiapp/static/upload…ee0-814c-90e1a6ee8b0c-IMG-20221225-WA0006.jpg.jpg",
         description: "The Comedy Club of IIT Bombay, offering workshops, open mics, and a platform for aspiring comedians.",
@@ -373,7 +373,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/comedycons_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/comedycons"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       },
       {
@@ -385,7 +385,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/vaani_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://gymkhana.iitb.ac.in/instiapp//org/vaani"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/"
         }
       }
     
