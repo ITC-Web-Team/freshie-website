@@ -271,7 +271,7 @@ export default [
   },
   {
     id: "we-speak",
-    name: "We Speak",
+    name: "WeSpeak",
     image: "https://example.com/wespeak-logo.jpg",
     description: "We Speak is the Speaking Arts Club of IIT Bombay, catering to all debating enthusiasts in the institute. The club embraces a wide range of verbal art forms including debate, slam poetry, and Model United Nations (MUN). Members also engage in group discussions to explore socio-economic and international issues. The club helps individuals develop the ability to frame arguments and speak confidently in front of an audience.",
     socials: {
@@ -367,7 +367,7 @@ export default [
   },
   {
     id: "comedy-cons",
-    name: "Comedy Cons",
+    name: "ComedyCons",
     image: "https://example.com/comedycons-logo.jpg",
     description: "Comedy Cons is the Comedy Club of IIT Bombay, rapidly growing and exploring various comedy formats and genres. The club offers workshops, jamming sessions, and open mics guided by professionals and senior students, helping beginners and enthusiasts hone their comedic skills. The journey culminates in the Annual Stand-Up Showcase, providing unmatched exposure and memories. No prerequisites needed—just bring your funny streak or come to laugh and relax!",
     socials: {
