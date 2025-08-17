@@ -407,7 +407,7 @@ export default [
           linkedin: "https://in.linkedin.com/company/aeromodelling-club-iit-bombay",
           instagram: "https://www.instagram.com/aeroclub.iitb/"
         },
-        website: ""
+        website: "https://linktr.ee/aeroclubiitb"
       },
       {
         id: "biox",
