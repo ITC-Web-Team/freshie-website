@@ -1,3 +1,81 @@
+/* --- Back to Home Button Styles ---
+.council-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: none;
+} */
+
+
+
+.council-header-row {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+.council-heading {
+  font-size: 2.5rem;
+  font-family: 'Kay Pho Du', sans-serif;
+  font-weight: 700;
+  color: #4D3501;
+  margin: 0;
+  background-image: linear-gradient(to right, #FFC300, #BA8E00);
+  padding: 0.5em 1.2em;
+  border-radius: 1.2em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.back-btn-inline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90deg, #FFC300 60%, #BA8E00 100%);
+  color: #4D3501;
+  border: 2px solid #4D3501;
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  font-size: 1.5rem;
+  margin-left: 0.2em;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+.back-btn-inline:hover, .back-btn-inline:focus {
+  background: linear-gradient(90deg, #FFD700 60%, #FFC300 100%);
+  color: #222;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  outline: none;
+}
+.back-arrow {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 0;
+}
+@media (max-width: 600px) {
+  .council-header-row {
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .council-heading {
+    font-size: 1.3rem;
+    padding: 0.4em 0.7em;
+  }
+  .back-btn-inline {
+    width: 2em;
+    height: 2em;
+    font-size: 1.2rem;
+    border-width: 1.5px;
+    margin-left: 0.1em;
+  }
+  .back-arrow {
+    font-size: 1.2em;
+  }
+}
 .cards-container {
   display: flex;
   flex-wrap: wrap;
