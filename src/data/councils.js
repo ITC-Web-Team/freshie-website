@@ -220,175 +220,176 @@ export default [
     name: 'ICC',
     image: '/images/icc-card.png',
     clubs: [
-      {
-        id: "iit-bbc",
-        name: "IIT-BBC",
-        image: "https://api.insti.app/static/upload/0fa2d764-21c.jpg",
-        description: "IIT-Bombay's online video channel showcasing campus events, activities, and student life across all domains.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/iitbbc?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://insightiitb.org"
-        }
-      },
-      {
-        id: "rang",
-        name: "Rang",
-        image: "https://api.insti.app/static/upload/e1c6fa92-30f.jpg",
-        description: "Fine Arts Club creating vibrant art through painting, graffiti, sketching, crafts, and creative designs.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/rang_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://rang.iitb.ac.in"
-        }
-      },
-      {
-        id: "silver-screen",
-        name: "SilverScreen",
-        image: "https://api.insti.app/static/upload/f044c9db-34e.jpg",
-        description: "The film club of IIT Bombay, promoting filmmaking and film appreciation through screenings and hands-on projects.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/silverscreen_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://silverscreen.iitb.ac.in"
-        }
-      },
-      {
-        id: "symphony",
-        name: "Symphony",
-        image: "https://api.insti.app/static/upload/9e3de690-7bb.png",
-        description: "The Music Club of IIT Bombay, embracing diverse musical forms like fusion, pop, rock, and metal.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/symphonyiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://symphony.iitb.ac.in"
-        }
-      },
-      {
-        id: "we-speak",
-        name: "We Speak",
-        image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-052002a9-4e6.png.jpg",
-        description: "The Speaking Arts Club of IIT Bombay, focusing on debate, slam poetry, MUNs, and group discussions.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/wespeakiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://wespeak.iitb.ac.in"
-        }
-      },
-      {
-        id: "styleup",
-        name: "StyleUp",
-        image: "https://example.com/styleup-logo.jpg",
-        description: "The Fashion Club of IIT Bombay, for self-expression through ramp walks, photoshoots, and costume design.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/styleup_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://styleup.iitb.ac.in"
-        }
-      },
-      {
-        id: "roots",
-        name: "Roots",
-        image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-7a677c66-c45.png.jpg",
-        description: "The Classical and Folk Arts Club, celebrating traditions in music, dance, and art forms.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/roots_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "https://www.facebook.com/groups/RootsIITB/",
-          website: "https://roots.iitb.ac.in"
-        }
-      },
-      {
-        id: "literati",
-        name: "Literati",
-        image: "https://api.insti.app/static/upload/8e1e0243-8ec.jpg",
-        description: "The literary club hosting quizzes, creative writing, word games, and scavenger hunts for everyone.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/literati_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://literati.iitb.ac.in"
-        }
-      },
-      {
-        id: "pixels",
-        name: "Pixels",
-        image: "https://api.insti.app/static/upload/f7452670-191.jpg",
-        description: "The Photography Club of IIT Bombay, for amateurs and professionals to capture moments and experiment with photography.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/pixels_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://pixels.iitb.ac.in"
-        }
-      },
-      {
-        id: "insync",
-        name: "InSync",
-        image: "https://api.insti.app/static/upload/4814c907-d22.jpg",
-        description: "The Dance Club of IIT Bombay, offering a space to explore dance styles like Bollywood, Hip-Hop, and more.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/insync_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://insync.iitb.ac.in"
-        }
-      },
-      {
-        id: "fourthwall",
-        name: "Fourthwall",
-        image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-7d717f47-03b.jpg.jpg",
-        description: "The Dramatics Club of IIT Bombay, for acting, directing, scriptwriting, and all things theatre.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/fourthwall_iitbombay?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://fourthwall.iitb.ac.in"
-        }
-      },
-      {
-        id: "design-club",
-        name: "The Design Club",
-        image: "https://api.insti.app/static/upload/06f8ecf2-e82.jpg",
-        description: "The Design Club of IIT Bombay, fostering a design culture by bringing creative ideas to life.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/designiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://designclub.iitb.ac.in"
-        }
-      },
-      {
-        id: "comedy-cons",
-        name: "Comedy Cons",
-        image: "https://gymkhana.iitb.ac.in/instiapp/static/upload…ee0-814c-90e1a6ee8b0c-IMG-20221225-WA0006.jpg.jpg",
-        description: "The Comedy Club of IIT Bombay, offering workshops, open mics, and a platform for aspiring comedians.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/comedycons_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://comedycons.iitb.ac.in"
-        }
-      },
-      {
-        id: "vaani",
-        name: "Vaani",
-        image: "https://api.insti.app/static/upload/56/4f/564f83c8-252f-43b6-b2f1-e4df5be13170-d2a61daa-b92.png.jpg",
-        description: "The Indian Languages Club celebrating India's linguistic diversity through poetry, writing, and debate.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/vaani_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://vaani.iitb.ac.in"
-        }
-      }
     
+        {
+          id: "iit-bbc",
+          name: "IIT-BBC",
+          image: "/images/bbc.png",
+          description: "IIT-Bombay's online video channel showcasing campus events, activities, and student life across all domains.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/iitbbc?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "rang",
+          name: "Rang",
+          image: "/images/rang.jpg",
+          description: "Fine Arts Club creating vibrant art through painting, graffiti, sketching, crafts, and creative designs.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/rang_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "silverscreen",
+          name: "SilverScreen",
+          image: "/images/silver-screen.jpg",
+          description: "The film club of IIT Bombay, promoting filmmaking and film appreciation through screenings and hands-on projects.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/silverscreen_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "symphony",
+          name: "Symphony",
+          image: "/images/sympony.jpg",
+          description: "The Music Club of IIT Bombay, embracing diverse musical forms like fusion, pop, rock, and metal.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/symphonyiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "we-speak",
+          name: "We Speak",
+          image: "/images/speak.jpg",
+          description: "The Speaking Arts Club of IIT Bombay, focusing on debate, slam poetry, MUNs, and group discussions.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/wespeakiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "lifestyle-club",
+          name: "StyleUp",
+          image: "/images/style-up.jpg",
+          description: "The Fashion Club of IIT Bombay, for self-expression through ramp walks, photoshoots, and costume design.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/styleup_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "roots",
+          name: "Roots",
+          image: "/images/roots.jpg",
+          description: "The Classical and Folk Arts Club, celebrating traditions in music, dance, and art forms.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/roots_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "https://www.facebook.com/groups/RootsIITB/",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "literati",
+          name: "Literati",
+          image: "/images/literati.jpg",
+          description: "The literary club hosting quizzes, creative writing, word games, and scavenger hunts for everyone.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/literati_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "pixels",
+          name: "Pixels",
+          image: "/images/pixels.jpg",
+          description: "The Photography Club of IIT Bombay, for amateurs and professionals to capture moments and experiment with photography.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/pixels_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "insync",
+          name: "InSync",
+          image: "/images/insync.jpg",
+          description: "The Dance Club of IIT Bombay, offering a space to explore dance styles like Bollywood, Hip-Hop, and more.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/insync_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "fourthwall",
+          name: "Fourthwall",
+          image: "/images/fourthwall.jpg",
+          description: "The Dramatics Club of IIT Bombay, for acting, directing, scriptwriting, and all things theatre.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/fourthwall_iitbombay?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "the-design-club",
+          name: "The Design Club",
+          image: "/images/design.jpg",
+          description: "The Design Club of IIT Bombay, fostering a design culture by bringing creative ideas to life.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/designiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "comedycons",
+          name: "Comedy Cons",
+          image: "/images/comedy.jpg",
+          description: "The Comedy Club of IIT Bombay, offering workshops, open mics, and a platform for aspiring comedians.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/comedycons_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        },
+        {
+          id: "vaani",
+          name: "Vaani",
+          image: "/images/vaani.jpg",
+          description: "The Indian Languages Club celebrating India's linguistic diversity through poetry, writing, and debate.",
+          socials: {
+            linkedin: "",
+            instagram: "https://www.instagram.com/vaani_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            facebook: "",
+            website: "https://gymkhana.iitb.ac.in/instiapp//org/"
+          }
+        }
+      
 
 
     ]
@@ -407,7 +408,7 @@ export default [
           "linkedin": "",
           "instagram": "",
           "facebook": "",
-          "website": ""
+          "website": "https://itc.gymkhana.iitb.ac.in/aero/about/"
         }
       },
       {
@@ -529,7 +530,216 @@ export default [
             "facebook": "",
             "website": ""
           }
-        }
+        },
+     
+          {
+            id: "auv",
+            name: "AUV-IITB",
+            image: "/images/auv-iitb.png",
+            description: "Autonomous Underwater Vehicle team of IIT Bombay, designing Matsya series for underwater robotics competitions.",
+            socials: {
+              linkedin: null, 
+              instagram: "https://www.instagram.com/auviitb/?hl=en",
+              facebook: null,
+              website: "https://www.auv-iitb.org/"
+            }
+          },
+          {
+            id: "racing",
+            name: "IIT Bombay Racing",
+            image: "/images/iitb-racing.png",
+            description: "Formula Student team designing electric and formula-style racing cars for international competitions.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/iitbombayracing/",
+              facebook: null,
+              website: "https://www.iitbracing.org/"
+            }
+          },
+          {
+            id: "ssp",
+            name: "Student Satellite Program (IITBSSP)",
+            image: "/images/iitbssp.jpg",
+            description: "A student project focused on designing and building satellites, including the Pratham and Advitiy missions.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/iitbssp/?hl=en",
+              facebook: null,
+              website: "https://www.aero.iitb.ac.in/satlab/"
+            }
+          },
+          {
+            id: "mars-rover",
+            name: "Mars Rover Team",
+            image: "/images/iitb-marsrover.png",
+            description: "A team of students from IIT Bombay that participates in the Mars Rover Design Competition.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/iitb.marsroverteam?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+              facebook: null,
+              website: "http://marsrover.in/"
+            }
+          },
+          {
+            id: "shunya",
+            name: "Team Shunya",
+            image: "/images/team-shunya.png",
+            description: "A student-driven technical team focused on building sustainable, solar-powered net-positive energy houses.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/teamshunya_iitb/",
+              website: "https://www.teamshunya.org/",
+              facebook: null
+            }
+          },
+          {
+            id: "rakshak",
+            name: "Rakshak IIT Bombay",
+            image: "/images/rakshak-iitb.png",
+            description: "A team working on Unmanned Aerial Vehicles (UAVs) for search and rescue operations.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/rakshakiitb/",
+              facebook: null,
+              website: "https://rakshakiitb.in/"
+            }
+          },
+          {
+            id: "hyperloop",
+            name: "Hyperloop IITB",
+            image: "/images/hyperloop-iitb.png",
+            description: "Designing and engineering a Hyperloop prototype for supersonic terrestrial transport.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/hyperloopiitb/",
+              facebook: null,
+              website: "https://hyperloopiitb.github.io/"
+            }
+          },
+          {
+            id: "rocket",
+            name: "Rocket Team IITB",
+            image: "/images/iitb-rocket.png",
+            description: "A team working on high-power rocketry to promote STEM education and innovation.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/iitb.rocketry/",
+              facebook: null,
+              website: "https://iitbrocketteam.in/"
+            }
+          },
+          
+          {
+            id: "zerowaste",
+            name: "Zero Waste IITB",
+            image: "/images/zerowaste-iitb.png",
+            description: "A student-led Cleantech initiative focusing on sustainable waste management.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/zerowaste_iitb/?hl=en",
+              facebook: null,
+              website: "https://gymkhana.iitb.ac.in/instiapp//org/zero-waste"
+            }
+          },
+          
+          {
+            id: "anymation",
+            name: "Team ANYmation",
+            image: "/images/anymation.png",
+            description: "The official animation club of IIT Bombay. They create a variety of animated content and short films.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/team_anymation_iitb/",
+              facebook: null,
+              website: "https://anymation-iitb.github.io/"
+            }
+          },
+          {
+            "id": "srf",
+            "name": "Student Research Facility (SRF)",
+            "image": "/images/cds-srg.png",
+            "description": "The Student Research Facility is an innovation hub for students, providing resources and a collaborative environment for various tech projects.",
+            "socials": {
+              "linkedin": null,
+              "instagram":"",
+              "facebook": null,
+              "website": "https://www.insti.app/org/control--dynamical-systems-reading-group"
+            }
+        },
+          {
+            id: "csec",
+            name: "Cyber Security Community (CSeC)",
+            image: "/images/csec.png",
+            description: "A student-run community at IIT Bombay dedicated to cyber security. They organize workshops, participate in Capture The Flag (CTF) competitions, and share knowledge.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/cseciitb/",
+              facebook: null,
+              website: "https://cseciitb.github.io/"
+            }
+          },
+          
+          {
+            id: "spart",
+            name: "SPART (airship/zeppelin project)",
+            image: "/images/spart.png",
+            description: "A project team focused on airships and zeppelins. Specific information is not readily available online.",
+            socials: {
+              linkedin: null,
+              instagram: null,
+              facebook: null,
+              website: null
+            }
+          },
+          {
+            id: "exofly",
+            name: "ExoFly",
+            image: "/images/exofly-iitb.png",
+            description: "A student team focused on designing and building a VTOL (Vertical Take-off and Landing) personal flying device.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/exofly_iitb/",
+              facebook: null,
+              website: "https://exofly-iitb.github.io/"
+            }
+          },
+          {
+            id: "team-stride",
+            name: "Team Stride",
+            image: "/images/stride.jpg",
+            description: "A student technical team at IIT Bombay focused on developing quadruped robots for navigating rough terrains.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/teamstride_iitb/",
+              facebook: null,
+              website: null
+            }
+          },
+          {
+            id: "umic",
+            name: "UMIC",
+            image: "/images/umic-iitb.png",
+            description: "The Unmesh Mashruwala Innovation Cell, a robotics and innovation team working on projects like autonomous cars and drones.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/umic_iitb/",
+              facebook: null,
+              website: "https://umiciitb.github.io/"
+            }
+          },
+          {
+            id: "devcom",
+            name: "DevCom",
+            image: "/images/devcom-iitb.png",
+            description: "The Developers' Community of IIT Bombay, a student group that builds digital solutions to improve student life, such as the InstiApp and ResoBin.",
+            socials: {
+              linkedin: null,
+              instagram: "https://www.instagram.com/devcom.iitb/",
+              facebook: null,
+              website: "https://devcom.gymkhana.iitb.ac.in/"
+            }
+          },
+        
     ]
   },  
   {
@@ -591,8 +801,8 @@ export default [
         name: "SSS",
         image: "/images/SSS.png",
         description: "Supporting students' academic journey",
-        instagram: "https://www.instagram.com/studentsupportservices_iitb",
         socials: {
+          instagram: "https://www.instagram.com/studentsupportservices_iitb",
           linkedin: "",
           facebook: "https://www.facebook.com/sss.iitb",
           website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/5"

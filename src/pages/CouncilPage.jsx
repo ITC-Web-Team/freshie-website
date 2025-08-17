@@ -55,13 +55,19 @@ const CouncilPage = () => {
                   </a>
                 )}
 
+                {/* <div className="club-card-bottom-rotated">
+                  <img
+                    src={`/images/${councilId}-logo.png`}
+                    alt={council.name}
+                    className="council-logo rotated"
+                  /> */}
+                </div>
                 <div className="club-card-bottom-rotated">
                   <img
                     src={`/images/${councilId}-logo.png`}
                     alt={council.name}
                     className="council-logo rotated"
                   />
-                </div>
               </div>
             </div>
           );
