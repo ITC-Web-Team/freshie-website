@@ -20,7 +20,7 @@
   text-align: center;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   transform: rotateZ(calc(-3deg + 6deg * var(--random-rotate)));
-
+  padding-bottom: 85px;
 }
 
 .club-card:hover {
@@ -114,7 +114,7 @@
   position: absolute;
   bottom: 12px;
   right: 12px;
-  transform: scale(-1, 1);
+  transform: rotate(180deg);
   background: #fff;
   padding: 4px;
   border-radius: 6px;

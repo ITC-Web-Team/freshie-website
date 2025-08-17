@@ -408,7 +408,7 @@ export default [
           "linkedin": "",
           "instagram": "",
           "facebook": "",
-          "website": ""
+          "website": "https://itc.gymkhana.iitb.ac.in/aero/about/"
         }
       },
       {
@@ -801,8 +801,8 @@ export default [
         name: "SSS",
         image: "/images/SSS.png",
         description: "Supporting students' academic journey",
-        instagram: "https://www.instagram.com/studentsupportservices_iitb",
         socials: {
+          instagram: "https://www.instagram.com/studentsupportservices_iitb",
           linkedin: "",
           facebook: "https://www.facebook.com/sss.iitb",
           website: "https://ugac-iitb.github.io/UGAC-IITB/divisions/5"

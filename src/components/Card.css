@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  min-height: 100vh;
+  min-height: 100%;
   width: 100vw;
   font-family: 'Segoe UI', sans-serif;
   background-image: radial-gradient(circle at 60% 50%, #038126, #014D11);
@@ -13,6 +13,7 @@ html, body {
 .home-container {
   padding: 0;
   text-align: center;
+  height: 100%;
 }
 
 .cards-container {
