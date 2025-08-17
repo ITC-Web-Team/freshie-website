@@ -229,7 +229,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/iitbbc?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://insightiitb.org"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/iit-bbc"
         }
       },
       {
@@ -241,7 +241,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/rang_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://rang.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/rang"
         }
       },
       {
@@ -253,7 +253,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/silverscreen_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://silverscreen.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/silverscreen"
         }
       },
       {
@@ -265,21 +265,21 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/symphonyiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://symphony.iitb.ac.in"
-        }
-      },
-      {
-        id: "we-speak",
-        name: "We Speak",
-        image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-052002a9-4e6.png.jpg",
-        description: "The Speaking Arts Club of IIT Bombay, focusing on debate, slam poetry, MUNs, and group discussions.",
-        socials: {
-          linkedin: "",
-          instagram: "https://www.instagram.com/wespeakiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-          facebook: "",
-          website: "https://wespeak.iitb.ac.in"
-        }
-      },
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/symphony"
+      }
+    },
+    {
+      id: "we-speak",
+      name: "We Speak",
+      image: "https://api.insti.app/static/upload/2c/d8/2cd8bf5c-eafb-409b-8a04-f62f94ccd58d-052002a9-4e6.png.jpg",
+      description: "The Speaking Arts Club of IIT Bombay, focusing on debate, slam poetry, MUNs, and group discussions.",
+      socials: {
+        linkedin: "",
+        instagram: "https://www.instagram.com/wespeakiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        facebook: "",
+        website: "https://gymkhana.iitb.ac.in/instiapp//org/we-speak"
+      }
+    },
       {
         id: "styleup",
         name: "StyleUp",
@@ -289,7 +289,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/styleup_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://styleup.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/lifestyle-club"
         }
       },
       {
@@ -301,7 +301,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/roots_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "https://www.facebook.com/groups/RootsIITB/",
-          website: "https://roots.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/roots"
         }
       },
       {
@@ -313,7 +313,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/literati_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://literati.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/literati"
         }
       },
       {
@@ -325,7 +325,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/pixels_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://pixels.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/pixels"
         }
       },
       {
@@ -337,7 +337,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/insync_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://insync.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/insync"
         }
       },
       {
@@ -349,7 +349,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/fourthwall_iitbombay?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://fourthwall.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/fourthwall"
         }
       },
       {
@@ -361,7 +361,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/designiitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://designclub.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/the-design-club"
         }
       },
       {
@@ -373,7 +373,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/comedycons_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://comedycons.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/comedycons"
         }
       },
       {
@@ -385,7 +385,7 @@ export default [
           linkedin: "",
           instagram: "https://www.instagram.com/vaani_iitb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
           facebook: "",
-          website: "https://vaani.iitb.ac.in"
+          website: "https://gymkhana.iitb.ac.in/instiapp//org/vaani"
         }
       }
     
