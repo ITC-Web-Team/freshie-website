@@ -476,6 +476,17 @@ export default [
         website: "https://wncc-iitb.org/"
       },
       {
+        id: "TL",
+        name: "Tinkerers Laboratory",
+        image: "/src/assets/tl.jpg",
+        description: "A student-run makerspace at IIT Bombay, providing resources and support for students to work on projects involving electronics, robotics, and other technologies.",
+        socials: {
+          linkedin: "https://in.linkedin.com/company/tinkerers-laboratory-iit-bombay",
+          instagram: "https://www.instagram.com/tinkererslab.iitb/"
+        },
+        website: "https://sites.google.com/view/tinkererslaboratory/home"
+      },
+      {
         id: "kritika",
         name: "Krittika - Astronomy Club",
         image: "/src/assets/krittika.png",
