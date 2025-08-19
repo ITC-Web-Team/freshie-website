@@ -449,7 +449,7 @@ export default [
       },
       {
         "id": "energy",
-        "name": "Energy Club",
+        "name": "Energy & Sustainability Club",
         "image": "/images/itc/enrg.png",
         "description": "Works on projects and awareness related to sustainable energy and energy conservation.",
         "socials": {
