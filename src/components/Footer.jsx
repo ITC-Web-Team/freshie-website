@@ -6,4 +6,5 @@ const Footer = () => {
       Made with ♥️ by ITC Web Team
     </div>
   )
+  export default Footer
 }
