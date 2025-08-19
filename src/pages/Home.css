@@ -13,13 +13,35 @@ h1 {
 }
 
 p {
-    padding: 0 6rem;
-    font-family: 'kay pho du', sans-serif;
-    font-weight: 700;
-    color: #FFFFFF;
-    font-size: 1.3rem;
+        padding: 0 6rem;
+        font-family: 'kay pho du', sans-serif;
+        font-weight: 700;
+        color: #FFFFFF;
+        font-size: 1.3rem;
+        /* max-width: 900px; */
+        margin: 0 auto 2rem auto;
 }
 
+/* Responsive improvements for Home page */
+@media (max-width: 600px) {
+    .home-container {
+        padding: 0 0.5rem;
+    }
+    h1 {
+        font-size: 2.2rem;
+        padding: 1rem 0.2rem;
+    }
+    p {
+        margin-top: 0.5vh;
+        padding: 0 0.7rem;
+        font-size: 1rem;
+        max-width: 100%;
+    }
+    .cards-container {
+        gap: 1.2rem !important;
+        margin: 1rem 0.2rem !important;
+    }
+}
 a {
     text-decoration: underline;
     color: #FFC300;

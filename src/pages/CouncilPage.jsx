@@ -49,10 +49,24 @@ const CouncilPage = () => {
                     <i className="fab fa-facebook-f" />
                   </a>
                 )}
-                {club.socials.website && (
-                  <a href={`${club.socials.website + club.id}`} target="_blank" rel="noreferrer">
+                {(councilId === 'icc') ? (
+                  <a
+                    href={`https://gymkhana.iitb.ac.in/instiapp/org/${club.id}`}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <i className="fas fa-external-link-alt" />
                   </a>
+                ) : (
+                  club.socials.website && (
+                    <a
+                      href={club.socials.website.replace(/([^:])\/\//g, '$1/')}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <i className="fas fa-external-link-alt" />
+                    </a>
+                  )
                 )}
 
                 {/* <div className="club-card-bottom-rotated">

@@ -444,7 +444,7 @@ export default [
           "linkedin": "",
           "instagram": "",
           "facebook": "",
-          "website": "https://erciitb.github.io/"
+          "website": "https://erc.tech-iitb.org/"
         }
       },
       {
